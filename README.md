@@ -49,6 +49,6 @@ My strengths lie in:
 
 Feel free to connect with me if you have any questions, collaboration opportunities, or just want to chat about the exciting world of software development!
 
-[LinkedIn](#) | [GitHub](#) | [Twitter](#)
+[LinkedIn](https://www.linkedin.com/in/ampratyay/) | [GitHub](https://github.com/PrattGamer) | [Twitter](https://twitter.com/amPrattGamer)
 
 Looking forward to connecting with fellow developers and enthusiasts! 😊
