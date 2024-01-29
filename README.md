@@ -1,6 +1,6 @@
 # About Me
 
-Hello! 👋 I'm Pratyay Naskar, an experienced developer, and the founder, director, and CEO at Imaginatrix Technologies. With a rich history in the computer software industry, I bring a diverse skill set and a passion for creating innovative solutions. Here's a snapshot of my professional journey:
+Hello! 👋 I'm Pratyay Naskar, an experienced Full Stack Developer, and the founder, director, and CEO at Imaginatrix Technologies. With a rich history in the computer software industry, I bring a diverse skill set and a passion for creating innovative solutions. Here's a detailed look at my professional journey:
 
 ## Experience
 
@@ -24,6 +24,7 @@ I specialize in:
 - NodeJS
 - JavaScript, jQuery
 - Framework 7
+- React.js, Vue.js, AngularJS, Next.js and other libraries
 - Web Apps (Android and iOS)
 - Progressive Web Apps (PWA)
 - Server Security
