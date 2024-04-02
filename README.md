@@ -4,7 +4,7 @@ Hello! 👋 I'm Pratyay Naskar, an experienced Full Stack Developer, and the fou
 
 ## Experience
 
-1. **Imaginatrix Technologies (Present)**
+1. **Imaginatrix Technologies (2023 - Present)**
    - **Role:** Founder, Director, and CEO
    - **Industry:** Computer Software
 
