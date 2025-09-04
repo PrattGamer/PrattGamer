@@ -1,55 +1,84 @@
-# About Me
+# 👋 Hello, I'm Pratyay Naskar (PrattGamer)
 
-Hello! 👋 I'm Pratyay Naskar, an experienced Full Stack Developer, and the founder, director, and CEO at Imaginatrix Technologies. With a rich history in the computer software industry, I bring a diverse skill set and a passion for creating innovative solutions. Here's a detailed look at my professional journey:
+🚀 Founder, Director & CEO at [Imaginatrix Technologies](https://imaginatrix.in/)  
+💻 Experienced Full Stack Developer | Tech Enthusiast | Innovator  
 
-## Experience
+---
 
-1. **Imaginatrix Technologies (2023 - Present)**
-   - **Role:** Founder, Director, and CEO
-   - **Industry:** Computer Software
+## 🧑‍💻 About Me
 
-2. **Westenets Technologies (2019-2023)**
-   - **Role:** Co-Founder, Director, and CTO
-   - **Industry:** Computer Software
+With a strong background in computer software, I specialize in building innovative and scalable solutions. Passionate about emerging tech, I continuously expand my skills into AI, blockchain, and more — turning ideas into impactful reality.
 
-3. **Mega Voice Command (2016–2023)**
-   - **Role:** Web Developer
-   - **Industry:** Computer Software
+---
 
-## Technical Skills
+## 💼 Professional Journey
 
-I specialize in:
+- 🔹 **Imaginatrix Technologies** (2023 - Present)  
+  Founder, Director & CEO | Computer Software  
 
-- PHP and MySQL
-- NodeJS
-- JavaScript, jQuery
-- Framework 7
-- React.js, Vue.js, AngularJS, Next.js and other libraries
-- Web Apps (Android and iOS)
-- Progressive Web Apps (PWA)
-- Server Security
-- Database Architecture
+- 🔹 **Westenets Technologies** (2016 - 2023)  
+  Co-Founder, Director & CTO | Computer Software  
 
-## Education
+- 🔹 **Mega Voice Command** (2016 – 2023)  
+  Web Developer | Computer Software  
 
-- **Degree:** Bachelor of Computer Application (BCA)
-- **Focus:** Computer Science
-- **University:** West Bengal University of Technology
+---
 
-## Professional Strengths
+## 🛠️ Core Tech Stack
 
-My strengths lie in:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7B93E?style=flat&logo=javascript&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)  
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![Framework7](https://img.shields.io/badge/Framework7-ec330b?style=flat&logo=Framework7&logoColor=FFF)  
+---
 
-- Software Development
-- Web Application Architecture
-- Mobile App Development (Android and iOS)
-- Progressive Web App (PWA) Development
-- Server Security Implementation
+## 🤖 Emerging Tech Expertise
 
-## Connect with Me
+![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-brightgreen)
+![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Models-blueviolet)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-important)
+![Blockchain](https://img.shields.io/badge/Blockchain-Technology-darkblue)
+![Crypto](https://img.shields.io/badge/Crypto-Cryptocurrency-yellowgreen)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Solidity-red)
 
-Feel free to connect with me if you have any questions, collaboration opportunities, or just want to chat about the exciting world of software development!
+---
 
-[LinkedIn](https://www.linkedin.com/in/ampratyay/) | [GitHub](https://github.com/PrattGamer) | [Twitter](https://twitter.com/amPrattGamer)
+## 🎓 Education
 
-Looking forward to connecting with fellow developers and enthusiasts! 😊
+- 🎓 **Bachelor of Computer Application (BCA)**  
+  Focus: Computer Science  
+  West Bengal University of Technology  
+
+---
+
+## 💪 Strengths
+
+- Software Development  
+- Web & Mobile Application Architecture  
+- Progressive Web Apps (PWA)  
+- Server Security & Database Architecture  
+- AI & Machine Learning Integrations  
+- Blockchain & Smart Contract Development  
+
+---
+
+## 📫 Let’s Connect!
+
+<a href="https://www.linkedin.com/in/ampratyay/"><img src="https://img.shields.io/badge/LinkedIn-Pratyay%20Naskar-blue?style=for-the-badge&logo=linkedin" /></a>  
+<a href="https://github.com/PrattGamer"><img src="https://img.shields.io/badge/GitHub-PrattGamer-black?style=for-the-badge&logo=github" /></a>  
+<a href="https://twitter.com/ampratyay"><img src="https://img.shields.io/badge/Twitter-@ampratyay-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
+
+---
+
+*Feel free to reach out; I’m always excited to connect with fellow developers and innovators!*
