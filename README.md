@@ -30,13 +30,17 @@ With a strong background in computer software, I specialize in building innovati
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7B93E?style=flat&logo=javascript&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)  
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
-![Framework7](https://img.shields.io/badge/Framework7-ec330b?style=flat&logo=Framework7&logoColor=FFF)  
+![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=flat&logo=framework7&logoColor=white)
 ---
 
 ## 🤖 Emerging Tech Expertise
